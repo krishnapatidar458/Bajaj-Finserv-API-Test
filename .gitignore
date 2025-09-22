@@ -13,6 +13,7 @@
 
 # Package Files #
 *.jar
+!target/bfhlApp-*.jar
 *.war
 *.nar
 *.ear
